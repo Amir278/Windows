@@ -1,0 +1,32 @@
+body {
+    background-color: #40E0D0;
+}
+
+h1 {
+	border-color: red;
+	border-width: 5px;
+	text-align:center;
+	background: #FFEFD5;
+}
+
+h2 {
+	
+	border-width: 5px;
+	margin: 10px;
+	background: #F5F5F5;
+	text-align:center;
+p {
+	margin: 5px;
+	color: #E0FFFF;
+	border: 3px solid #73AD21;
+	text-align:center;
+}
+h3 {
+	text-align:center;
+}
+img {
+	position: absolute;
+	/*margin-left: auto;
+	margin-right: auto;
+	width: 40%;*/
+}
